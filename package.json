@@ -1,7 +1,7 @@
 {
-  "name": "react-component-skeleton",
+  "name": "react-link-container",
   "version": "0.1.0",
-  "description": "A simple responsive sidebar component for React",
+  "description": "A React component that wraps react/html content and when clicked navigates to the given href. Compatible with react router, but not required.",
   "keywords": [
     "react",
     "react-component"
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gregchamberlain/react-component-skeleton.git"
+    "url": "git+https://github.com/gregchamberlain/react-link-container.git"
   },
   "author": "Greg Chamberlain <gregchamberlain94@gmail.com> (https://gregchamberlain.github.io)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gregchamberlain/react-component-skeleton/issues"
+    "url": "https://github.com/gregchamberlain/react-link-container/issues"
   },
-  "homepage": "https://github.com/gregchamberlain/react-component-skeleton#readme",
+  "homepage": "https://github.com/gregchamberlain/react-link-container#readme",
   "devDependencies": {
     "babel-core": "^6.5.2",
     "babel-eslint": "^6.1.2",
